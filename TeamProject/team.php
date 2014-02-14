@@ -4,4 +4,8 @@
 
 echo "Team";
 
+function getThisNow()
+{
+    return "This Now";   
+}
 ?>
