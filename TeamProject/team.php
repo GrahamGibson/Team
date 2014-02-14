@@ -2,6 +2,6 @@
 
 /* Team project */
 
-echo "Team";
+echo "Team<br>GO HOME!";
 
 ?>
